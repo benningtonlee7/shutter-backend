@@ -1,0 +1,19 @@
+2021-10-28 00:45:21,406: DEBUG: app.services.DatabaseServices.RDBService: show keys from profiles
+2021-10-28 01:05:16,367: DEBUG: app.services.DatabaseServices.RDBService: show keys from profiles
+2021-10-28 01:05:16,368: DEBUG: app.services.DatabaseServices.RDBService: select count(*) as count from profiles
+2021-10-28 01:05:16,368: DEBUG: app.services.DatabaseServices.RDBService: show columns from profiles
+2021-10-28 01:05:16,369: DEBUG: app.services.DatabaseServices.RDBService: show keys from profiles
+2021-10-28 01:05:16,370: DEBUG: app.services.DatabaseServices.RDBService: SELECT * FROM profiles 
+2021-10-28 01:05:16,371: DEBUG: app.services.DatabaseServices.RDBService: show columns from profiles
+2021-10-28 01:05:29,803: DEBUG: app.services.DatabaseServices.RDBService: show keys from profiles
+2021-10-28 01:05:29,804: DEBUG: app.services.DatabaseServices.RDBService: select count(*) as count from profiles
+2021-10-28 01:05:29,804: DEBUG: app.services.DatabaseServices.RDBService: show columns from profiles
+2021-10-28 01:05:29,805: DEBUG: app.services.DatabaseServices.RDBService: show keys from profiles
+2021-10-28 01:05:29,806: DEBUG: app.services.DatabaseServices.RDBService: SELECT * FROM profiles 
+2021-10-28 01:05:29,807: DEBUG: app.services.DatabaseServices.RDBService: show columns from profiles
+2021-10-28 01:07:25,480: DEBUG: app.services.DatabaseServices.RDBService: show keys from profiles
+2021-10-28 01:07:25,482: DEBUG: app.services.DatabaseServices.RDBService: select count(*) as count from profiles
+2021-10-28 01:07:25,482: DEBUG: app.services.DatabaseServices.RDBService: show columns from profiles
+2021-10-28 01:07:25,484: DEBUG: app.services.DatabaseServices.RDBService: show keys from profiles
+2021-10-28 01:07:25,485: DEBUG: app.services.DatabaseServices.RDBService: SELECT * FROM profiles 
+2021-10-28 01:07:25,485: DEBUG: app.services.DatabaseServices.RDBService: show columns from profiles
